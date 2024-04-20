@@ -1,2 +1,2 @@
-#Review 
--[] Just a game .
+# Review 
+-[x] Just a game .
